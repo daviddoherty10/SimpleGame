@@ -1,4 +1,4 @@
-#include "boundaries.h"
+#include "boundaries.hpp"
 #include <SFML/Graphics.hpp>
 
 int main() {
